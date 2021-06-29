@@ -3,6 +3,10 @@ package tech.scolton.json;
 public class JSONNull extends JSONValue {
     JSONNull() { }
 
+    public Object value() {
+        return null;
+    }
+
     @Override
     public String stringify() {
         return "null";

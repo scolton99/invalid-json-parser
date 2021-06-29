@@ -1,6 +1,6 @@
 package tech.scolton.json;
 
-import tech.scolton.JSON;
+import tech.scolton.json.util.Pair;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;

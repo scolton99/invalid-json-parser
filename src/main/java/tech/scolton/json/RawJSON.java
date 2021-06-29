@@ -26,7 +26,7 @@ public class RawJSON implements CharSequence {
 
     @Override
     public int length() {
-        return 0;
+        return this.value.length();
     }
 
     @Override

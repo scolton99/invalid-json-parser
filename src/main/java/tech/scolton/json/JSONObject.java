@@ -1,5 +1,7 @@
 package tech.scolton.json;
 
+import tech.scolton.json.util.Pair;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

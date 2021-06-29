@@ -1,4 +1,4 @@
-package tech.scolton.json;
+package tech.scolton.json.util;
 
 public class Pair<X, Y> {
     private X first;

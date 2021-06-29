@@ -1,6 +1,7 @@
 package tech.scolton;
 
 import tech.scolton.json.*;
+import tech.scolton.json.util.Pair;
 
 import java.util.ArrayList;
 import java.util.List;
